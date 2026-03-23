@@ -8,14 +8,15 @@ It is separate from **[ShadowdarkReference](https://github.com/pcons71/Shadowdar
 
 - `Shadowdark_Adventure_Template_Project_Checklist.md` — task list for the adventure template, toolchain, and legal/compliance prep.
 
-## First-time publish to GitHub
+## Repository
 
-Create an empty repository (for example `ShadowdarkAdventures`) under your account, then:
+Canonical remote: **[github.com/pcons71/ShadowdarkAdventures](https://github.com/pcons71/ShadowdarkAdventures)**.
 
 ```text
-git remote add origin https://github.com/YOUR_USER/ShadowdarkAdventures.git
-git push -u origin main
+git clone https://github.com/pcons71/ShadowdarkAdventures.git
 ```
+
+Local `origin` should track that URL; new clones get `main` by default.
 
 ## Related
 
