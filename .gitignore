@@ -1,0 +1,12 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor
+*.swp
+*~
+
+# Optional: PDF/build outputs (uncomment when a standard build folder exists)
+# /dist/
+# /build/
+# /export/
