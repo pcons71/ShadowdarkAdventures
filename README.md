@@ -21,4 +21,4 @@ Local `origin` should track that URL; new clones get `main` by default.
 ## Related
 
 - Intended to sit next to `ShadowdarkReference` under the same parent folder (e.g. `CascadeProjects`).
-- **Multi-root workspace:** save `Shadowdark.code-workspace` in that **parent** folder (above both repos) and open it in Cursor/VS Code. Copy the JSON from the [ShadowdarkReference README](https://github.com/pcons71/ShadowdarkReference/blob/main/README.md) (*Multi-root workspace* section).
+- **Multi-root workspace:** optional `Shadowdark.code-workspace` in the **parent** folder (next to both repos), opened locally in Cursor/VS Code—not tracked on GitHub; see the [ShadowdarkReference README](https://github.com/pcons71/ShadowdarkReference/blob/main/README.md) (*Multi-root workspace* section).
