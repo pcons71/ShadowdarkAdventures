@@ -8,6 +8,15 @@ It is separate from **[ShadowdarkReference](https://github.com/pcons71/Shadowdar
 
 - `Shadowdark_Adventure_Template_Project_Checklist.md` — task list for the adventure template, toolchain, and legal/compliance prep.
 
+## First-time publish to GitHub
+
+Create an empty repository (for example `ShadowdarkAdventures`) under your account, then:
+
+```text
+git remote add origin https://github.com/YOUR_USER/ShadowdarkAdventures.git
+git push -u origin main
+```
+
 ## Related
 
-- Clone or open this repo next to `ShadowdarkReference` if you want both projects under the same parent folder (`CascadeProjects`).
+- Intended to sit next to `ShadowdarkReference` under the same parent folder (e.g. `CascadeProjects`).
